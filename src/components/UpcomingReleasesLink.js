@@ -3,7 +3,7 @@ import React from 'react';
 const UpcomingReleasesLink = () => {
     return (
         <>
-            <button>View more upcoming releases</button>
+            <a href="https://www.imdb.com/calendar/?region=gb" target="_blank"><button>View more upcoming releases</button></a>
         </>
     )
 }
